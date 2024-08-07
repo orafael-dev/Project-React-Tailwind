@@ -6,7 +6,7 @@ export default function Avatar() {
         width={48}
         height={48}
         className="
-        rounded-full border-2 border-zinc-400
+        rounded-full border-2 border-gray-400
         "
         />
     )
