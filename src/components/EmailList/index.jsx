@@ -1,5 +1,5 @@
 import emails from "../../email.json";
-import EmailListItem from "./EmaillistItem";
+import EmailListItem from "./EmailListItem";
 
 // eslint-disable-next-line react/prop-types
 export default function EmailList( {setOpenEmail} ) {
